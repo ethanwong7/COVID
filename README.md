@@ -5,3 +5,5 @@
 
 
 **Twitter Scraping and Natural Language Processing**
+- *twitterscraper.ipynb* : Using Tweepy and GetOldTweets3 to scrape 10,000 tweets from March 2020 to July 2020 that contain the phrase "COVID"
+- *COVID_NLP.ipynb* : Performed natural language processing, text analysis, and sentiment analysis on the scraped tweets
